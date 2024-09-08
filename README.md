@@ -13,7 +13,7 @@
 <p align="center">
     🌱 I’m currently learning <strong>Machine Learning</strong><br>
     📫 How to reach me: <strong>sushanshetty1470@gmail.com</strong><br>
-</p>
+</p><br>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -56,15 +56,15 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" style="margin: 10px;"/>
   </a>
-</p>
+</p><br>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushanshetty1&show_icons=true&locale=en&layout=compact" alt="sushanshetty1" />
-</p>
+</p><br>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sushanshetty1&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+</p><br>
 
 <p align="center">
     <a href="https://git.io/streak-stats">
