@@ -4,20 +4,16 @@
 
 <h3 align="center">
     Passionate Developer | Machine Learning Enthusiast | Problem Solver
-</h3>
+</h3><br>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sushanshetty1&label=Profile%20views&color=0e75b6&style=flat" alt="sushanshetty1" />
-</p>
-
-
+</p><br>
 
 <p align="center">
     🌱 I’m currently learning <strong>Machine Learning</strong><br>
-    📫 How to reach me: <strong>sushanshetty1470@gmail.com</strong>
+    📫 How to reach me: <strong>sushanshetty1470@gmail.com</strong><br>
 </p>
-
-<h3 align="center">Connect with me:</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
