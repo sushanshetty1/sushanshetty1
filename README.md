@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<hr/>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -56,8 +56,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" style="margin: 10px;"/> 
   </a> 
 </p>
-
-<hr/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushanshetty1&show_icons=true&locale=en&layout=compact" alt="sushanshetty1" /></p>
 
