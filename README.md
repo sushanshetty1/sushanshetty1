@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Passionate Developer | Machine Learning Enthusiast | Problem Solver
+    Passionate Developer | AI & Data Science Enthusiast | Creative Problem Solver
 </h3><br>
 
 <p align="center">
