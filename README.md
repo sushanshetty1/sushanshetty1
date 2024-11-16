@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Passionate Developer | AI & Data Science Enthusiast | Creative Problem Solver
+    Developer | AI & Data Science Enthusiast | Problem Solver
 </h3><br>
 
 <p align="center">
@@ -11,8 +11,8 @@
 </p><br>
 
 <p align="center">
-    🌱 I’m currently learning <strong>Machine Learning</strong><br>
-    📫 How to reach me: <strong>sushanshetty1470@gmail.com</strong><br>
+    🌱 Currently learning <strong>Machine Learning</strong><br>
+    📫 Reach me at: <strong>sushanshetty1470@gmail.com</strong><br>
 </p><br>
 
 <h3 align="center">Languages and Tools:</h3>
