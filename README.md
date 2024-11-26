@@ -4,9 +4,6 @@
 
 <div align="center">
     <h3>Developer | AI & Data Science Enthusiast | Problem Solver</h3>
-
-<!-- Profile Views Counter -->
-<img src="https://img.shields.io/badge/Profile%20Views-Welcome!-blue" alt="Profile Views" />
 </div>
 
 ## 📍 About Me
