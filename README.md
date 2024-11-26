@@ -1,5 +1,3 @@
-# 👋 Sushan Shetty
-
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+I'm+Sushan+Shetty!;" alt="Typing animation" />
 </div>
@@ -7,7 +5,7 @@
 <div align="center">
     <h3>Developer | AI & Data Science Enthusiast | Problem Solver</h3>
 
-    ![Profile Views](https://komarev.com/ghpvc/?username=sushanshetty1&label=Profile%20views&color=0e75b6&style=flat)
+    ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsushanshetty1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 </div>
 
 ## 📍 About Me
