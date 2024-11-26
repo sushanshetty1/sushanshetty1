@@ -1,18 +1,15 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+I'm+Sushan+Shetty!;" alt="Typing animation" />
 </div>
-
 <div align="center">
     <h3>Developer | AI & Data Science Enthusiast | Problem Solver</h3>
 </div>
 
 ## 📍 About Me
-
 - 🌱 Currently learning **Machine Learning**
 - 📫 Reach me at: **sushanshetty1470@gmail.com**
 
 ## 💻 Tech Stack
-
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -33,6 +30,9 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn&logoColor=white)
 
 ### Data Science & ML
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -46,15 +46,12 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ## 📊 GitHub Stats
-
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sushanshetty1&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
-
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushanshetty1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
-
 <div align="center">
     <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=sushanshetty1&theme=dark" alt="GitHub Streak" />
 </div>
