@@ -5,7 +5,8 @@
 <div align="center">
     <h3>Developer | AI & Data Science Enthusiast | Problem Solver</h3>
 
-    ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsushanshetty1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
+<!-- Profile Views Counter -->
+<img src="https://img.shields.io/badge/Profile%20Views-Welcome!-blue" alt="Profile Views" />
 </div>
 
 ## 📍 About Me
