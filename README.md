@@ -6,7 +6,7 @@
 </div>
 
 ## 📍 About Me
-- 🌱 Currently learning **Machine Learning**
+- 🌱 Currently learning **React Native & Electron.js**
 - 📫 Reach me at: **sushanshetty1470@gmail.com**
 
 ## 💻 Tech Stack
