@@ -136,61 +136,47 @@ const sushanShetty = {
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">🛍️ E-Commerce Platform</h3>
+      <h3 align="center">Navika Org</h3>
       <p align="center">
         <a href="https://github.com/sushanshetty1" target="_blank">
-          <img src="https://dummyimage.com/500x300/6366F1/ffffff&text=E-Commerce+Platform" width="100%" alt="E-Commerce Project">
+          <img src="https://res.cloudinary.com/dwkxh75ux/image/upload/v1747025144/tt1whrwoi18xu8tzbzhv.png" width="100%" alt="E-Commerce Project">
         </a>
         <span>
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
           <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
         </span>
-        <p><strong>Full-featured e-commerce platform with secure payment processing, product management, and responsive design</strong></p>
+        <p><strong>A paid freelance event management platform built for Navika, a US-based Karnataka committee, featuring seamless ticket booking, secure payments, and real-time event tracking.</strong></p>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🧠 AI Image Generator</h3>
+      <h3 align="center">SustainEarth</h3>
       <p align="center">
         <a href="https://github.com/sushanshetty1" target="_blank">
-          <img src="https://dummyimage.com/500x300/A78BFA/ffffff&text=AI+Image+Generator" width="100%" alt="AI Project">
+          <img src="https://res.cloudinary.com/dwkxh75ux/image/upload/v1747025142/jmqlwk0wgynpdxdopb4s.png" width="100%" alt="AI Project">
         </a>
         <span>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
           <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         </span>
-        <p><strong>Text-to-image generation using deep learning models with customizable styles and advanced parameters</strong></p>
+        <p><strong>Driving sustainability with technology to tackle UN SDGs like No Hunger, Quality Education, and Economic Growth. Features food redistribution, education platforms, and a sustainable marketplace.</strong></p>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">✅ Task Management App</h3>
+      <h3 align="center">LoanSage</h3>
       <p align="center">
         <a href="https://github.com/sushanshetty1" target="_blank">
-          <img src="https://dummyimage.com/500x300/F87171/ffffff&text=Task+Manager" width="100%" alt="Task App Project">
+          <img src="https://res.cloudinary.com/dwkxh75ux/image/upload/v1747025143/zdz9csjwphkyvmkacs7h.png" width="100%" alt="Task App Project">
         </a>
         <span>
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
           <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         </span>
-        <p><strong>Collaborative task management with real-time updates, role-based permissions, and custom dashboards</strong></p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 Social Media Dashboard</h3>
-      <p align="center">
-        <a href="https://github.com/sushanshetty1" target="_blank">
-          <img src="https://dummyimage.com/500x300/22D3EE/000000&text=Social+Dashboard" width="100%" alt="Dashboard Project">
-        </a>
-        <span>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        </span>
-        <p><strong>Analytics dashboard for social media with customizable widgets and insightful data visualizations</strong></p>
+        <p><strong>An AI-powered multilingual loan advisory platform built in 24 hours at The Great Bengaluru Hackathon 2025. Breaks language barriers in financial literacy with Sarvam AI and Gemini.</strong></p>
       </p>
     </td>
   </tr>
