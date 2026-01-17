@@ -2,7 +2,7 @@
 
 # SUSHAN SHETTY
 
-[![Portfolio](https://img.shields.io/badge/Website-sushanshetty.vercel.app-6366F1?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000)](https://sushanshetty.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Website-sushanshetty.vercel.app-6366F1?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000)](https://sushans.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sushanshetty1-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/sushanshetty1)
 [![GitHub](https://img.shields.io/badge/GitHub-sushanshetty1-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/sushanshetty1)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:sushanshetty1470@gmail.com)
