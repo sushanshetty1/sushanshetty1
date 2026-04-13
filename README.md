@@ -2,8 +2,6 @@
 
 # Sushan Shetty
 
-**Full-Stack Developer · AI Engineer**
-
 [![Portfolio](https://img.shields.io/badge/sushans.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://sushans.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushanshetty1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sushanshetty1)
